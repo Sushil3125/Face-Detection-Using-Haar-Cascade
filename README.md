@@ -19,7 +19,7 @@ Haar Cascade is an Object Detection Algorithm used to identify faces in an image
 ### Screenshots
 
 
-![alt text](https://raw.githubusercontent.com/Sushil3125/Face-Detection-Using-Haar-Cascade/main/Pictures/Capture2.JPG
+![alt text](https://raw.githubusercontent.com/Sushil3125/Face-Detection-Using-Haar-Cascade/main/Pictures/Capture2.JPG)
 
 ### Requirements
 
