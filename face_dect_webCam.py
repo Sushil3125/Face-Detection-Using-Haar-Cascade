@@ -39,8 +39,8 @@ while True:
         r=int(w/2)
         cv.circle(frame, (int(x1),int(y1)), r, (255,0,0), thickness=2)
 
-        x2=(2*x+w)/2
-        y2=(y+h)+25
+        # x2=(2*x+w)/2
+        # y2=(y+h)+25
 
 
 
